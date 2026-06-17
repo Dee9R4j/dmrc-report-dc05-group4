@@ -1,0 +1,26 @@
+# LaTeX generated files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.idx
+*.ilg
+*.ind
+*.bbl
+*.blg
+
+# Output directory (if you configure one)
+build/
+
+# PDF files
+*.pdf
+
+# VS Code environment files
+.vscode/
+
+# Hidden system files
+.DS_Store
+Thumbs.db
